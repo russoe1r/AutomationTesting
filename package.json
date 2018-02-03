@@ -1,0 +1,24 @@
+{
+  "name": "automationtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russoe1r/AutomationTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russoe1r/AutomationTesting/issues"
+  },
+  "homepage": "https://github.com/russoe1r/AutomationTesting#readme",
+  "dependencies": {
+    "chromedriver": "^2.35.0",
+    "nightwatch": "^0.9.19",
+    "selenium-server": "^3.8.1"
+  }
+}
