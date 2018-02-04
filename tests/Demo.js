@@ -5,3 +5,4 @@ module.exports = {
       tests.searchGoogle(browser)
     }
   };
+  
